@@ -1,4 +1,4 @@
-package com.doichejunior.gof;
+package singleton;
 
 /*Singleton apressado
  * 
