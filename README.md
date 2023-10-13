@@ -27,17 +27,17 @@ Imagens para agregar conhecimentos.
 
 # Praticando com Java Puro: Singleton
 
-Singleton 
+# Singleton 
 
 Permitir a criação de uma única instância de uma classe e fornecer um modo de recuperá-lo.
 
-teste 
-te
-ttttfdfdf
-ttdffddfdf
-fdfdfd
+# Facade
 
+Prove uma interface que reduza a complexidade nas interações com busistemas.
 
+Client --> Facade --> Optional Aditional
+
+Abstrair a complexidade em subsistemas
 
 
 
